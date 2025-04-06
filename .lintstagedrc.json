@@ -1,0 +1,3 @@
+{
+  "*.(cjs|js|jsx|ts|tsx|vue)": "./node_modules/.bin/eslint --fix"
+}

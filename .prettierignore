@@ -1,0 +1,7 @@
+.vscode
+.idea
+.fleet
+
+pnpm-lock.yaml
+pnpm-workspace.yaml
+README.md
